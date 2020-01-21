@@ -1,6 +1,6 @@
 # rerecycle
 
-Rerecycle is a collaborative board game made in 48 hours during the Rapu Game Jam in Kouvola (September 2019).
+Rerecycle is a collaborative board game made in 48 hours during the Rapu Game Jam in Kouvola (September 2019). 
 The authors of this game are:
 * Arsi
 * Roxanne
