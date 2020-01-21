@@ -4,7 +4,7 @@ Rerecycle is a collaborative board game made in 48 hours during the Rapu Game Ja
 The authors of this game are:
 * Arsi
 * Roxanne
-* Fen Nicolás[https://github.com/fenshan/]
+* [Fen Nicolás](https://github.com/fenshan/)
 
 Play time: 15-20 minutes on first playthrough, then 20-30 on a second play.
 
