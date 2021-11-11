@@ -22,3 +22,8 @@ In the meantime, learn about the challenges of circular economy.
 * [Cards](Cards) and [Specialty Tokens](Specialty%20Tokens) folders.  
 
 You can print the board, cards and tokens in order to play. Or you can use them inside the Tabletop Simulator (as we did for testing the game).
+
+<br><br>
+
+| <img src="Specialty%20Tokens/MetalProfile.png" alt="metal specialty token"/> | <img src="Specialty%20Tokens/PlasticProfile.png" alt="plastic specialty token"/> | <img src="Specialty%20Tokens/TextileProfile.png" alt="textile specialty token"/> | <img src="Specialty%20Tokens/WoodProfile.png" alt="wood specialty token"/> |
+| --- | --- | --- | --- |
