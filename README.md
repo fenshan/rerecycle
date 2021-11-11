@@ -1,6 +1,7 @@
 # rerecycle
 
-Rerecycle is a collaborative board game made in 48 hours during the Rapu Game Jam in Kouvola (September 2019).  
+### Rerecycle is a collaborative board game made in 48 hours during the Rapu Game Jam in Kouvola (September 2019).
+
 The authors of this game are:
 * Arsi Liimatainen
 * Roxanne
@@ -16,8 +17,8 @@ It’s a race against time and nature to produce as many products as you can wit
 In the meantime, learn about the challenges of circular economy.  
 
 ### What do you need to play:
-* 'Rules of Rerecycle.pdf' file to learn how to play the game.  
-* 'Discard piles.png' is the board of the game.  
-* 'Cards' and 'Specialty Tokens' folders.  
+* [Rules of Rerecycle.pdf](Rules%20of%20Rerecycle.pdf) file to learn how to play the game.
+* [Discard piles.png](Discard%20piles.png)  is the board of the game. 
+* [Cards](Cards) and [Specialty Tokens](Specialty%20Tokens) folders.  
 
 You can print the board, cards and tokens in order to play. Or you can use them inside the Tabletop Simulator (as we did for testing the game).
